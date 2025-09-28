@@ -12,4 +12,4 @@ WORK IN PROGRESS
 - Head on to the Customization folder and build your own customized noteskin. Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom" and/or "enchantment-custom-2d" folders.
 - Copy the "enchantment-custom" and/or "enchantment-custom-2d" folders, then paste and replace files inside the NoteSkins/dance folder, then restart the game to apply the variant.
 
-- If you want to create more enchantment folders of your own, remember to change the 2d folder that the 3d folder takes sprites from. Just open the metrics.ini file inside the 3d folder and change the name of the 2d folder. 
+- If you want to create more enchantment folders of your own, remember to change the 2d folder that the 3d folder takes sprites from. Just open the metrics.ini file inside the 3d folder, and change the folder name next to FallbackNoteSkin= to that of the 2d folder.
