@@ -1,4 +1,12 @@
 WORK IN PROGRESS
+# Testing
+These 6 variants have unique meshes, others just reuse one of these. Prioritize testing these 6:
+- Bright Cel Vibrant
+- Bright Gold
+- Bright Shadow
+- Bright Void
+- Default
+- Default Animated
 
 # Installation
 - Install the noteskin by copying the 4 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
