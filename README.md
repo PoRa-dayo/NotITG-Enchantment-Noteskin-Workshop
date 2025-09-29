@@ -14,6 +14,7 @@ These 7 variants have unique meshes, others just reuse one of these. Prioritize 
 # Installation
 - Install the noteskin by copying the 4 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
 <img width="559" height="210" alt="explorer_dZ7x8pwd3A" src="https://github.com/user-attachments/assets/07a161e8-881d-4ab8-a8c2-2940b506e64a" />
+
 - In NotITG, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS" show up, do that to get the option to select your noteskin.
 - "enchantment" and "enchantment-custom" folders are the noteskins with 3d models for consistent compatibility throughout NotITG modcharts. It is recommended to play with these noteskins instead of the 2d ones.
 - The corresponding 2d folders are the original 2d version ported directly over. ***The 3d folders will use sprites from their corresponding 2d folders, so both have to be there.***
