@@ -26,6 +26,6 @@ https://github.com/user-attachments/assets/9a687f11-449d-4427-a3dd-2f0fb5fd7b50
 
 
 - If you like what you have built in the enchantment-custom folders, you can duplicate those folders and rename them to whatever you want! Though do take note that ***the 3d folder will use sprites from its corresponding 2d folder***. So be sure to duplicate both the 3d and 2d folders, and remember to change the 2d folder that the 3d folder takes sprites from. Just open the metrics.ini file inside the 3d folder, and change the folder name next to FallbackNoteSkin= to that of the 2d folder.
-https://github.com/user-attachments/assets/6ab5743a-fcb9-4d76-a771-882c6d40bb36
+Video demo: https://github.com/user-attachments/assets/6ab5743a-fcb9-4d76-a771-882c6d40bb36
 
 
