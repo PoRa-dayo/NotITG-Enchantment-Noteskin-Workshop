@@ -6,7 +6,7 @@ These 7 variants have unique meshes, others just reuse one of these. Prioritize 
 - Bright Shadow
 - Bright Void
 - Default
-- Default Animated
+- Default Animated (same mesh as Default just different UV)
 - DDR Note Contrast Vibrant (soon)
 
 # Installation
