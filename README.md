@@ -19,6 +19,7 @@ These 7 variants have unique meshes, others just reuse one of these. Prioritize 
 # Customization
 - You will only be changing "enchantment-custom" and "enchantment-custom-2d", as I plan to keep "enchantment" and "enchantment-2d" as consistent folders for modcharts to reference if they want.
 - Head on to the Customization folder and build your own customized noteskin. Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom" and/or "enchantment-custom-2d" folders.
-- Copy the "enchantment-custom" and/or "enchantment-custom-2d" folders, then paste and replace files inside the NoteSkins/dance folder, then restart the game to apply the variant.
+- Copy the "enchantment-custom" and/or "enchantment-custom-2d" folders, then paste and replace files inside the NoteSkins/dance folder, then restart the game to apply the variant.<img width="525" height="149" alt="explorer_8gibDgA6zS" src="https://github.com/user-attachments/assets/d9ac0e8a-4c8b-4ca7-b797-480d5f1c2a5c" />
+<img width="567" height="257" alt="explorer_IapTBV6S6h" src="https://github.com/user-attachments/assets/76c308ed-f6c8-4cb5-89b7-4a5c14d1ca33" />
 
 - If you want to create more enchantment folders of your own, remember to change the 2d folder that the 3d folder takes sprites from. Just open the metrics.ini file inside the 3d folder, and change the folder name next to FallbackNoteSkin= to that of the 2d folder.
