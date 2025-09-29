@@ -1,4 +1,6 @@
 WORK IN PROGRESS
+
+A NotITG port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main).
 # Testing
 These 7 variants have unique meshes, others just reuse one of these. Prioritize testing these 7:
 - Bright Cel Vibrant
