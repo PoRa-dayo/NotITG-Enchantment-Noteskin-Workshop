@@ -24,3 +24,4 @@ These 7 variants have unique meshes, others just reuse one of these. Prioritize 
 <img width="567" height="257" alt="explorer_IapTBV6S6h" src="https://github.com/user-attachments/assets/76c308ed-f6c8-4cb5-89b7-4a5c14d1ca33" />
 
 - If you want to create more enchantment folders of your own, remember to change the 2d folder that the 3d folder takes sprites from. Just open the metrics.ini file inside the 3d folder, and change the folder name next to FallbackNoteSkin= to that of the 2d folder.
+<img width="252" height="57" alt="notepad++_yN2Ss6t6ie" src="https://github.com/user-attachments/assets/de9c7bae-11ae-4272-82be-565f85df56aa" />
