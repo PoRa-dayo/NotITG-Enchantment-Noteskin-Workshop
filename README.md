@@ -7,7 +7,7 @@ These 7 variants have unique meshes, others just reuse one of these. Prioritize 
 - Bright Void
 - Default
 - Default Animated (same mesh as Default just different UV)
-- DDR Note Contrast Vibrant (soon)
+- DDR Note Contrast Vibrant
 
 # Installation
 - Install the noteskin by copying the 4 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
