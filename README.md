@@ -25,7 +25,8 @@ These 7 variants have unique meshes, others just reuse one of these. Prioritize 
 *You will only be changing "enchantment-custom" and "enchantment-custom-2d", as I plan to keep "enchantment" and "enchantment-2d" as consistent folders for modcharts to reference if they want.*
 
 - Head on to the Customization folder and build your own customized noteskin. Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom" and/or "enchantment-custom-2d" folders.
-- Copy the "enchantment-custom" and/or "enchantment-custom-2d" folders, then paste and replace files inside the NoteSkins/dance folder, then restart the game to apply the variant.
+- Copy those "enchantment-custom" and/or "enchantment-custom-2d" folders.
+- In the NotITG game folder, go to NoteSkins/dance folder, then paste the folders and replace files, then restart the game to apply the variant.
 
 https://github.com/user-attachments/assets/9a687f11-449d-4427-a3dd-2f0fb5fd7b50
 
