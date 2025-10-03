@@ -1,6 +1,9 @@
 WORK IN PROGRESS
 
 A NotITG port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main).
+
+(Scroll down for Installation and Customization instructions!)
+
 # Overview
 Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with NotITG, all arrows and mines now have 3D models!
 ## Arrows
