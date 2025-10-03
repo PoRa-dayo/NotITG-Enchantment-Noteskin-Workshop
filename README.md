@@ -30,9 +30,13 @@ And here is the "Plain" variations with the floral patterns removed for a more s
 
 ## Explosions
 Tap explosions can be customized to different match different judgement color sets. By default it comes with the Ornate "ITG" Glow set, but there are options for color sets like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a DDR tap explosion), Glow (similar to the default ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). There are Ornate and Plain versions of every set. You can also disable tap explosions entirely with the "no explosions" customization option. Here is a preview of some of the tap explosion options:
+
 ![itg_tap_explosion](https://github.com/user-attachments/assets/df114b1d-a854-4974-8a98-cbed8d10af52)
 
 Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal. There are Plain and Ornate versions of every option. By default the skin uses the Ornate "RGB" glow color option. You can also disable hold explosions entirely with the "no explosions" customization option. Here is a preview image of some of the hold explosion options:
+
+![itg_hold_explosion](https://github.com/user-attachments/assets/7c440f04-a8bd-4608-99ee-815f32a044a4)
+
 
 # Installation
 - Install the noteskin by copying the 4 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
