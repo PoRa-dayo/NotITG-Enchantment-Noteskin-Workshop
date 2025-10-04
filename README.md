@@ -2,7 +2,7 @@ WORK IN PROGRESS
 
 A NotITG port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main).
 
-(An overview of the features in this workshop as well as some Previews can be seen in the Overview section below)
+(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)
 
 # Installation
 - Install the noteskin by copying the 4 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
