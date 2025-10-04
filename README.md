@@ -2,7 +2,35 @@ WORK IN PROGRESS
 
 A NotITG port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main).
 
-(Scroll down for Installation and Customization instructions!)
+(An overview of the features in this workshop as well as some Previews can be seen in the Overview section below)
+
+# Installation
+- Install the noteskin by copying the 4 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
+<img width="559" height="210" alt="explorer_dZ7x8pwd3A" src="https://github.com/user-attachments/assets/07a161e8-881d-4ab8-a8c2-2940b506e64a" />
+
+- In NotITG, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS" show up, do that to get the option to select your noteskin.
+- "enchantment" and "enchantment-custom" folders are the noteskins with 3d models for consistent compatibility throughout NotITG modcharts. It is recommended to play with these noteskins instead of the 2d ones.
+- The corresponding 2d folders are the original 2d version ported directly over. ***The 3d folders will use sprites from their corresponding 2d folders, so both have to be there.***
+
+*You can change your default settings for NotITG by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
+
+# Customization
+*You will only be changing "enchantment-custom" and "enchantment-custom-2d", as I plan to keep "enchantment" and "enchantment-2d" as consistent folders for modcharts to reference if they want.*
+
+- Head on to the Customization folder and build your own customized noteskin. Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom" and/or "enchantment-custom-2d" folders.
+- Copy those "enchantment-custom" and/or "enchantment-custom-2d" folders.
+- In the NotITG game folder, go to NoteSkins/dance folder, then paste the folders and replace files, then restart the game to apply the variant.
+
+https://github.com/user-attachments/assets/9a687f11-449d-4427-a3dd-2f0fb5fd7b50
+
+
+
+- If you like what you have built in the enchantment-custom folders, you can duplicate those folders and rename them to whatever you want! Though do take note that ***the 3d folder will use sprites from its corresponding 2d folder***. So be sure to duplicate both the 3d and 2d folders, and remember to change the 2d folder that the 3d folder takes sprites from. Just open the metrics.ini file inside the 3d folder, and change the folder name next to FallbackNoteSkin= to that of the 2d folder.
+
+
+
+https://github.com/user-attachments/assets/f12afc41-452e-48be-a8de-06d0e20fcb28
+
 
 # Overview
 Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with NotITG, all arrows and mines now have 3D models!
@@ -40,33 +68,23 @@ Hold explosions can be color customized to many different color options and also
 
 ![itg_hold_explosion](https://github.com/user-attachments/assets/7c440f04-a8bd-4608-99ee-815f32a044a4)
 
+## Holds and Rolls
+Holds and rolls (active and inactive) can be color customized. Every color option has four types for holds and rolls, and any of the 4 types can be set as active or inactive. Feel free to mix and match different options! Here is a preview image of some of the hold and roll options:
 
-# Installation
-- Install the noteskin by copying the 4 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
-<img width="559" height="210" alt="explorer_dZ7x8pwd3A" src="https://github.com/user-attachments/assets/07a161e8-881d-4ab8-a8c2-2940b506e64a" />
+## Mines
+Mines can be color customized, and for every color option there are three types, each with 2-4 variations. Using the "default" color as an example:
 
-- In NotITG, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS" show up, do that to get the option to select your noteskin.
-- "enchantment" and "enchantment-custom" folders are the noteskins with 3d models for consistent compatibility throughout NotITG modcharts. It is recommended to play with these noteskins instead of the 2d ones.
-- The corresponding 2d folders are the original 2d version ported directly over. ***The 3d folders will use sprites from their corresponding 2d folders, so both have to be there.***
+## Receptors
+Receptors can be color customized. There are three arttributes for each color, giving a total of eight types. Using the "Vapor" color as an example:
+There are "Classic" and "Frame" types:
 
-*You can change your default settings for NotITG by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
+## Arrow Border (3D only)
+NotITG is a game focused on visuals, so a lot of times there will be loads of things happening in the background, killing the readability of lots of noteskins. As the Enchantment noteskin definitely isn't known for having contrasting borders, there is now an option to add an additional border around your arrows, allowing for good readability across NotITG modcharts. It apparently isn't possible to do this sort of thing on 2D noteskins though, so this feature can only be applied to the 3D noteskin.
 
-# Customization
-*You will only be changing "enchantment-custom" and "enchantment-custom-2d", as I plan to keep "enchantment" and "enchantment-2d" as consistent folders for modcharts to reference if they want.*
-
-- Head on to the Customization folder and build your own customized noteskin. Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom" and/or "enchantment-custom-2d" folders.
-- Copy those "enchantment-custom" and/or "enchantment-custom-2d" folders.
-- In the NotITG game folder, go to NoteSkins/dance folder, then paste the folders and replace files, then restart the game to apply the variant.
-
-https://github.com/user-attachments/assets/9a687f11-449d-4427-a3dd-2f0fb5fd7b50
-
-
-
-- If you like what you have built in the enchantment-custom folders, you can duplicate those folders and rename them to whatever you want! Though do take note that ***the 3d folder will use sprites from its corresponding 2d folder***. So be sure to duplicate both the 3d and 2d folders, and remember to change the 2d folder that the 3d folder takes sprites from. Just open the metrics.ini file inside the 3d folder, and change the folder name next to FallbackNoteSkin= to that of the 2d folder.
-
-
-
-https://github.com/user-attachments/assets/f12afc41-452e-48be-a8de-06d0e20fcb28
+## Inaccuracies
+I have tried to port most arrows and mines into 3D with the highest accuracy possible by recreating the animations based on what HURG told me. But of course, there are still some minor inaccuracies here and there compared to the 2D version:
+- There are a few specific quantizations in some specific variants that use complex gradients for the arrow frames. These more complex gradients for frames are simplified in the 3D version.
+- Because some shines in the original animations used Overlay blend mode in Photoshop, which cannot be recreated with simple color overlay, all the shine effects present in some variants are inaccurate. Regardless, I've tried my best to find the right colors to make the shine visuals as closest to the original as possible.
 
 
 
