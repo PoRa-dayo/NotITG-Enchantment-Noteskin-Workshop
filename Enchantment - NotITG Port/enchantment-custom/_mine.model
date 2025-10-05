@@ -1,4 +1,4 @@
 [Model]
 Meshes=enchantmine_mesh.txt
 Materials=_mine materials.txt
-Bones=../default/_mine bones.txt
+Bones=_mine bones.txt
