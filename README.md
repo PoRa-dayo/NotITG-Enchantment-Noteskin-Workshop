@@ -85,8 +85,10 @@ NotITG is a game focused on visuals, so a lot of times there will be loads of th
 
 ## Inaccuracies
 I have tried to port most arrows and mines into 3D with the highest accuracy possible by recreating the animations based on what HURG told me. But of course, there are still some minor inaccuracies here and there compared to the 2D version:
+- Most of the gradient sheets are recreated by myself, only a few of them are actually obtained from HURG because it'd take a really long time for HURG to export all those gradients, so the colors might be a bit inaccurate.
 - There are a few specific quantizations in some specific variants that use complex gradients for the arrow frames. These more complex gradients for frames are simplified in the 3D version.
 - Because some shines in the original animations used Overlay blend mode in Photoshop, which cannot be recreated with simple color overlay, all the shine effects present in some variants are inaccurate. Regardless, I've tried my best to find the right colors to make the shine visuals as closest to the original as possible.
+- All mine gradients are slightly more spaced out because I want to make it look good with TapMineAnimationLengthInBeats = 2.
 
 
 
