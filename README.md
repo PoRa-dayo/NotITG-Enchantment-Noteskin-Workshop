@@ -89,6 +89,7 @@ I have tried to port most arrows and mines into 3D with the highest accuracy pos
 - There are a few specific quantizations in some specific variants that use complex gradients for the arrow frames. These more complex gradients for frames are simplified in the 3D version.
 - Because some shines in the original animations used Overlay blend mode in Photoshop, which cannot be recreated with simple color overlay, all the shine effects present in some variants are inaccurate. Regardless, I've tried my best to find the right colors to make the shine visuals as closest to the original as possible.
 - All mine gradients are slightly more spaced out because I want to make it look good with TapMineAnimationLengthInBeats = 2.
+- Hold and roll tails end up being longer than usual and disappear sooner than they're supposed to. In the ITGMania version a property was changed to fix this issue, but that'd break during downscroll, like what happened with the DDR noteskin.
 
 
 
