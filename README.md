@@ -41,7 +41,7 @@ There are a lot of arrow customization options. (over 400!)
 
 Firstly, the arrow variants are split into two main groups: "Ornate", which includes the floral pattern similar to the original "enchantment" noteskin; and "Plain", which doesn't have the floral pattern.
 
-Secondly, there are color sets for ITG, Dev, DDR note, DDR Vivid, DDR Rainbow, RGB, and other color schemes seen on other various noteskins. There are also TD versions of some noteskins, such as TD ITG, that have different colors for uncommon quants.
+Secondly, there are color sets for ITG, Dev, DDR note, DDR Vivid, DDR Rainbow, RGB, and other color schemes seen on other various noteskins. There are also TD (Triplet Denomination) versions of some noteskins, such as TD ITG, that have different colors for 24ths and 48ths.
 
 And lastly, each color set can have some of the following arrow shapes:
 - Normal
