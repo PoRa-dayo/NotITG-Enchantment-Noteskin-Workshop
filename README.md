@@ -35,6 +35,7 @@ https://github.com/user-attachments/assets/f12afc41-452e-48be-a8de-06d0e20fcb28
 
 
 # Overview
+This is a port of the Enchantment V2 workshop by HURG. Compared to the original Enchantment, Enchantment V2 features a simpler ornate pattern that looks nicer with smaller arrow sizes, which is more fitting for modcharts, and a lot more customization options. The original Enchantment, made by [EvocaitArt](https://x.com/EvocaitArt), is also ported and is available in this workshop as "Classic" variants.
 
 ## Arrows
 There are a lot of arrow customization options. (over 400!)
@@ -87,10 +88,15 @@ NotITG is a game focused on visuals, so a lot of times there will be loads of th
 I have tried to port most arrows and mines into 3D with the highest accuracy possible by recreating the animations based on what HURG told me. But of course, there are still some minor inaccuracies here and there compared to the 2D version:
 - Most of the gradient sheets are recreated by myself, only a few of them are actually obtained from HURG because it'd take a really long time for HURG to export all those gradients, so the colors might be a bit inaccurate.
 - Because some shines in the original animations used Overlay blend mode in Photoshop, which cannot be recreated with simple color overlay, all the shine effects present in some variants are inaccurate. Regardless, I've tried my best to find the right colors to make the shine visuals as closest to the original as possible.
-- All mine gradients are slightly more spaced out because I want to make it look good with TapMineAnimationLengthInBeats = 2.
 - Hold and roll tails end up being longer than usual and disappear sooner than they're supposed to. In the ITGMania version a property was changed to fix this issue, but that'd break during downscroll, like what happened with the DDR noteskin.
+- Lifts and FA-mode-related things are removed, since you know, they don't exist in NotITG.
 
-
+## Special Thanks
+- [EvocaitArt](https://x.com/EvocaitArt) - original Enchantment noteskin creator
+- [HURG](https://github.com/HURG-IIDX) - creator of the Enchantment V2 noteskin workshop and a bunch of other noteskins
+- MechMaelstrom - for guiding me on how to do all these noteskin things in NotITG, as well as for playtesting and feedback.
+- Ky_Dash - for playtesting and giving feedback on the noteskin, and answering a bunch of questions I have about the game.
+- Nhan, NotITGFan61 - for playtesting and giving feedback on the noteskin.
 
 
 
