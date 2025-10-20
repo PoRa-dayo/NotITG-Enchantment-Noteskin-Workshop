@@ -8,7 +8,7 @@ Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customi
 
 # Installation
 - Install the noteskin by copying the 4 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
-<img width="559" height="210" alt="explorer_dZ7x8pwd3A" src="https://github.com/user-attachments/assets/07a161e8-881d-4ab8-a8c2-2940b506e64a" />
+(insert file here)
 
 - In NotITG, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS" show up, do that to get the option to select your noteskin.
 - "enchantment" and "enchantment-custom" folders are the noteskins with 3d models for consistent compatibility throughout NotITG modcharts. It is recommended to play with these noteskins instead of the 2d ones.
@@ -23,7 +23,7 @@ Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customi
 - Copy those "enchantment-custom" and/or "enchantment-custom-2d" folders.
 - In the NotITG game folder, go to NoteSkins/dance folder, then paste the folders and replace files, then restart the game to apply the variant.
 
-https://github.com/user-attachments/assets/9a687f11-449d-4427-a3dd-2f0fb5fd7b50
+(insert file here)
 
 
 
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/9a687f11-449d-4427-a3dd-2f0fb5fd7b50
 
 
 
-https://github.com/user-attachments/assets/f12afc41-452e-48be-a8de-06d0e20fcb28
+(insert file here)
 
 
 # Overview
@@ -57,32 +57,45 @@ And lastly, each color set can have some of the following arrow shapes:
 - Void
 
 Below is the "Ornate" arrow shape variations of the ITG color scheme, in the order listed above:
-![itg_ornate](https://github.com/user-attachments/assets/d6d134fe-bf8f-44d7-b6f5-c21ecb03ec94)
+(insert file here)
 
 And here is the "Plain" variations with the floral patterns removed for a more simple look:
-![itg_plain](https://github.com/user-attachments/assets/22e0c874-8654-4659-bfc2-05a398ec2684)
+(insert file here)
 
 ## Explosions
 Tap explosions can be customized to different match different judgement color sets. By default it comes with the Ornate "ITG" Glow set, but there are options for color sets like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a DDR tap explosion), Glow (similar to the default ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). There are Ornate and Plain versions of every set. You can also disable tap explosions entirely with the "no explosions" customization option. Here is a preview of some of the tap explosion options:
 
-![itg_tap_explosion](https://github.com/user-attachments/assets/df114b1d-a854-4974-8a98-cbed8d10af52)
+(insert file here)
 
 Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal. There are Plain and Ornate versions of every option. By default the skin uses the Ornate "RGB" glow color option. You can also disable hold explosions entirely with the "no explosions" customization option. Here is a preview image of some of the hold explosion options:
 
-![itg_hold_explosion](https://github.com/user-attachments/assets/7c440f04-a8bd-4608-99ee-815f32a044a4)
+(insert file here)
 
 ## Holds and Rolls
 Holds and rolls (active and inactive) can be color customized. Every color option has four types for holds and rolls, and any of the 4 types can be set as active or inactive. Feel free to mix and match different options! Here is a preview image of some of the hold and roll options:
 
+(insert file here)
+
 ## Mines
 Mines can be color customized, and for every color option there are three types, each with 2-4 variations. Using the "default" color as an example:
 
+(insert file here)
+
 ## Receptors
 Receptors can be color customized. There are three arttributes for each color, giving a total of eight types. Using the "Vapor" color as an example:
+
+(insert file here)
+
+
+
 There are "Classic" and "Frame" types:
+
+(insert file here)
 
 ## Arrow Border (3D only)
 NotITG is a game focused on visuals, so a lot of times there will be loads of things happening in the background, killing the readability of lots of noteskins. As the Enchantment noteskin definitely isn't known for having contrasting borders, there is now an option to add an additional border around your arrows, allowing for good readability across NotITG modcharts. It apparently isn't possible to do this sort of thing on 2D noteskins though, so this feature can only be applied to the 3D noteskin.
+
+(insert file here)
 
 ## Inaccuracies
 I have tried to port most arrows and mines into 3D with the highest accuracy possible by recreating the animations based on what HURG told me. But of course, there are still some minor inaccuracies here and there compared to the 2D version:
