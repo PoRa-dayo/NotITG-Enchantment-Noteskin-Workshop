@@ -122,7 +122,7 @@ The receptor pulse that goes along with the song BPM can also be toggled on and 
 
 
 
-## Arrow Border (3D only)
+## Arrow Border
 NotITG is a game focused on visuals, so a lot of times there will be loads of things happening in the background, killing the readability of lots of noteskins. As the Enchantment noteskin definitely isn't known for having contrasting borders, there is now an option to add an additional border around your arrows, allowing for good readability across NotITG modcharts. It apparently isn't possible to do this sort of thing on 2D noteskins though, so this feature can only be applied to the 3D noteskin.
 
 (insert file here)
