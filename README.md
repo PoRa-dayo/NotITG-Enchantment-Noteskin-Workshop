@@ -9,31 +9,25 @@ Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customi
 (Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)
 
 # Installation
-- Install the noteskin by copying the 4 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
+- Install the noteskin by copying the 2 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
 (insert file here)
 
 - In NotITG, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS" show up, do that to get the option to select your noteskin.
-- "enchantment" and "enchantment-custom" folders are the noteskins with 3d models for consistent compatibility throughout NotITG modcharts. It is recommended to play with these noteskins instead of the 2d ones.
-- The corresponding 2d folders are the original 2d version ported directly over. ***The 3d folders will use sprites from their corresponding 2d folders, so both have to be there.***
 
-*You can change your default settings for NotITG by going to the NotITG game folder, and open and edit Data/GamePrefs.ini. Changing the default noteskin will let you apply that noteskin to all players instead of just P1 and P2.*
+*You can change your default settings for NotITG by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
 
 # Customization
-*You will only be changing "enchantment-custom" and "enchantment-custom-2d", as I plan to keep "enchantment" and "enchantment-2d" as consistent folders for modcharts to reference if they want.*
+*You will only be changing "enchantment-custom", as I plan to keep "enchantment" as a consistent folder for modcharts to reference if they want.*
 
-- Head on to the Customization folder and build your own customized noteskin. Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom" and/or "enchantment-custom-2d" folders.
-- Copy those "enchantment-custom" and/or "enchantment-custom-2d" folders.
-- In the NotITG game folder, go to NoteSkins/dance folder, then paste the folders and replace files, then restart the game to apply the variant.
-
-(insert file here)
-
-
-
-- If you like what you have built in the enchantment-custom folders, you can duplicate those folders and rename them to whatever you want! Though do take note that ***the 3d folder will use sprites from its corresponding 2d folder***. So be sure to duplicate both the 3d and 2d folders, and remember to change the 2d folder that the 3d folder takes sprites from. Just open the metrics.ini file inside the 3d folder, and change the folder name next to FallbackNoteSkin= to that of the 2d folder.
-
-
+- Head on to the Customization folder and build your own customized noteskin. Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom" folder.
+- Copy the "enchantment-custom" folder.
+- In the NotITG game folder, go to NoteSkins/dance folder, then paste the folder and replace files, then restart the game to apply the variant.
 
 (insert file here)
+
+
+
+- If you like what you have built in the enchantment-custom folders, feel free to duplicate the "enchantment-custom" folder and rename it to whatever you want!
 
 
 # Overview
