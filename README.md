@@ -53,40 +53,69 @@ And lastly, each color set can have some of the following arrow shapes:
 - Void
 
 Below is the "Ornate" arrow shape variations of the ITG color scheme, in the order listed above:
-(insert file here)
+![476326625-59d52b6c-177c-4d78-8a28-83a20d21b3f3](https://github.com/user-attachments/assets/d49d148a-2aec-415d-92bd-c33a55dee890)
+
 
 And here is the "Plain" variations with the floral patterns removed for a more simple look:
-(insert file here)
+![476326681-e695fd3c-ee79-49b0-aa59-a7b87ca6d187](https://github.com/user-attachments/assets/998e682e-bcc4-4fa6-996c-4893e9f9b15a)
+
 
 ## Explosions
 Tap explosions can be customized to different match different judgement color sets. By default it comes with the Ornate "ITG" Glow set, but there are options for color sets like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a DDR tap explosion), Glow (similar to the default ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). There are Ornate and Plain versions of every set. You can also disable tap explosions entirely with the "no explosions" customization option. Here is a preview of some of the tap explosion options:
 
-(insert file here)
+![476327256-1ffe8b3f-b3ac-473f-b9d6-798d2aa744e0](https://github.com/user-attachments/assets/91d6a7c5-4785-43d9-ad0f-8e9a97a57dac)
+
 
 Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal. There are Plain and Ornate versions of every option. By default the skin uses the Ornate "RGB" glow color option. You can also disable hold explosions entirely with the "no explosions" customization option. Here is a preview image of some of the hold explosion options:
 
-(insert file here)
+![476327350-dba6822a-5000-40ac-94d4-c6cf0991caf8](https://github.com/user-attachments/assets/4f56cba6-8fac-4918-ba00-d60b411d5e78)
+
 
 ## Holds and Rolls
 Holds and rolls (active and inactive) can be color customized. Every color option has four types for holds and rolls, and any of the 4 types can be set as active or inactive. Feel free to mix and match different options! Here is a preview image of some of the hold and roll options:
 
-(insert file here)
+![476327484-f6b55627-aa66-4a3a-9a53-465eff769028](https://github.com/user-attachments/assets/7819c869-4a98-4ed8-b7bf-97dda64b781a)
+
 
 ## Mines
 Mines can be color customized, and for every color option there are three types, each with 2-4 variations. Using the "default" color as an example:
 
-(insert file here)
+There are normal, full size types:
+
+![476327523-90a1ee95-f2dc-4e8c-9b26-747bf2675031](https://github.com/user-attachments/assets/42b68b08-4ceb-4fc1-a68f-a174736381c9)
+
+
+There are mini types:
+
+![476327541-b8d36742-41a4-497f-8a76-313afe267ccd](https://github.com/user-attachments/assets/5afe9283-9a0c-44b7-b2e4-63ac968ddcde)
+
+
+And there are also dot types, you know, the one from Etterna, because yes:
+
+![476327553-25226b04-118a-411b-99d6-772160d4cccb](https://github.com/user-attachments/assets/71b59c72-4114-48ed-8c78-2af2d6cc453f)
+
 
 ## Receptors
-Receptors can be color customized. There are three arttributes for each color, giving a total of eight types. Using the "Vapor" color as an example:
+Receptors can be color customized. There are three arttributes for each color, giving a total of eight types:
+- Classic Static Plain
+- Frame Static Plain
+- Classic Static Ornate
+- Frame Static Ornate
+- Classic Animated Plain
+- Frame Animated Plain
+- Classic Animated Ornate
+- Frame Animated Ornate
 
-(insert file here)
+Using the "Vapor" color as an example:
+![476327678-72fab9cf-299d-4c60-a976-b9fb6009a7a6](https://github.com/user-attachments/assets/92298219-b679-4968-8700-b54bdb7a5dd6)
 
 
 
-There are "Classic" and "Frame" types:
+The receptor pulse that goes along with the song BPM can also be toggled on and off as well.
+![On](https://github.com/user-attachments/assets/2c3bfd4a-7322-4920-8d24-bd0928a5942d)
+![Off](https://github.com/user-attachments/assets/f1259897-91c7-4cae-bc24-2253748776e3)
 
-(insert file here)
+
 
 ## Arrow Border (3D only)
 NotITG is a game focused on visuals, so a lot of times there will be loads of things happening in the background, killing the readability of lots of noteskins. As the Enchantment noteskin definitely isn't known for having contrasting borders, there is now an option to add an additional border around your arrows, allowing for good readability across NotITG modcharts. It apparently isn't possible to do this sort of thing on 2D noteskins though, so this feature can only be applied to the 3D noteskin.
@@ -97,7 +126,7 @@ NotITG is a game focused on visuals, so a lot of times there will be loads of th
 I have tried to port most arrows and mines into 3D with the highest accuracy possible by recreating the animations based on what HURG told me. But of course, there are still some minor inaccuracies here and there compared to the 2D version:
 - Most of the gradient sheets are recreated by myself, only a few of them are actually obtained from HURG because it'd take a really long time for HURG to export all those gradients, so the colors might be a bit inaccurate.
 - Because some shines in the original animations used Overlay blend mode in Photoshop, which cannot be recreated with simple color overlay, all the shine effects present in some variants are inaccurate. Regardless, I've tried my best to find the right colors to make the shine visuals as closest to the original as possible.
-- Hold and roll tails end up being longer than usual and disappear sooner than they're supposed to. In the ITGMania version a property was changed to fix this issue, but that'd break during downscroll, like what happened with the DDR noteskin.
+- Hold and roll tails are shortened in this port as the game doesn't really like full 64x64 tails.
 - Lifts and FA-mode-related things are removed, since you know, they don't exist in NotITG.
 
 ## Special Thanks
