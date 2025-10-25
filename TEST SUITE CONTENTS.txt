@@ -59,7 +59,7 @@ MINIMAL SUITE:
 - Tap Explosions: Plain Minimal ITG Dev
 
 OMINOUS SUITE:
-- Arrow Border: Light Gray
+- Arrow Border: Silver
 - Arrows: Ornate TD Night
 - Hold + Roll Explosions: Ornate Minimal Falspawn
 - Holds (Active): Frame Light DDR Hold
@@ -95,7 +95,7 @@ SWEET SUITE:
 - Tap Explosions: Plain Glow ITG
 
 WICKED SUITE:
-- Arrow Border: Light Gray
+- Arrow Border: Silver
 - Arrows: Ornate TD Bright Void
 - Hold + Roll Explosions: Ornate Glow Falspawn
 - Holds (Active): Full Light Ornate Falspawn
