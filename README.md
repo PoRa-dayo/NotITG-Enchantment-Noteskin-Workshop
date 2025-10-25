@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 
 
 
-*You can change your default settings for NotITG by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
+*You can change your default settings for NotITG (including default noteskin) by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
 
 # Customization
 *You will only be changing the "enchantment-custom" folder.*
