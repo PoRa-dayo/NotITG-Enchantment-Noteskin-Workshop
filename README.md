@@ -9,30 +9,40 @@ Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customi
 (Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)
 
 # Installation
-- Install the noteskin by copying the 2 folders inside Enchantment - NotITG Port, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
-(insert file here)
+- Install the noteskin by copying the 2 folders inside the "Enchantment - NotITG Port" folder, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
+
+https://github.com/user-attachments/assets/3e57e4d6-472c-49f1-a886-a188c5de01b9
+
+
+- There are also Test Suites in the "Enchantment - TEST SUITES" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in Noteskins/dance to have a quick view of the variants you can build with this workshop. You can check the preview of each Test Suite inside the "Previews" folder.
+
+https://github.com/user-attachments/assets/22f99587-733a-41a3-bdb3-05f9262c89e4
+
+
 
 - In NotITG, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS" show up, do that to get the option to select your noteskin.
+
+https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
+
+
+
 
 *You can change your default settings for NotITG by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
 
 # Customization
-*You will only be changing "enchantment-custom", as I plan to keep "enchantment" as a consistent folder for modcharts to reference if they want.*
+*You will only be changing the "enchantment-custom" folder.*
 
 - You can check the Previews folder for previews in an easily viewable and browsable format. Use it to figure out what noteskin variant you want.
 - Head on to the Customization folder and build your own customized noteskin.
-
-*Arrows, Holds, Rolls, Receptors,... There sure are a lot to customize, huh? If you don't feel like going through all that yet, check out the TEST SUITES first. These are pre-made noteskin suites that allow you to change arrows, holds, rolls, receptors, etc. all at once as a set!*
-
 - Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom" folder.
 - Copy the "enchantment-custom" folder.
 - In the NotITG game folder, go to NoteSkins/dance folder, then paste the folder and replace files, then restart the game to apply the variant.
 
-(insert file here)
+https://github.com/user-attachments/assets/42eb4746-7819-4e7e-a5a2-6dd0bd19b5d3
 
 
 
-- If you like what you have built in the enchantment-custom folders, feel free to duplicate the "enchantment-custom" folder and rename it to whatever you want!
+- If you like what you have built in the "enchantment-custom" folder, feel free to duplicate the folder and rename it to whatever you want. That way you can save your custom build, and use the "enchantment-custom" folder to customize a new one!
 
 
 # Overview
