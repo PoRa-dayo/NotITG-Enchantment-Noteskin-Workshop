@@ -1,5 +1,3 @@
-WORK IN PROGRESS
-
 A NotITG port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled.
 
 Check the 2D version [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-Noteskin-Workshop).
