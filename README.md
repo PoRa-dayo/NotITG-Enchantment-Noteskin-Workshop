@@ -12,7 +12,7 @@ Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customi
 https://github.com/user-attachments/assets/3e57e4d6-472c-49f1-a886-a188c5de01b9
 
 
-- There are also Test Suites in the "Enchantment - TEST SUITES" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in Noteskins/dance to have a quick view of the variants you can build with this workshop. You can check the preview of each Test Suite inside the "Previews" folder.
+- There are also Test Suites in the "Enchantment - TEST SUITES" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in Noteskins/dance to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
 https://github.com/user-attachments/assets/22f99587-733a-41a3-bdb3-05f9262c89e4
 
