@@ -20,6 +20,15 @@ https://github.com/user-attachments/assets/22f99587-733a-41a3-bdb3-05f9262c89e4
 
 
 
+Preview of the Default Suite ("enchantment" folder), Enchantment Suite, and Heavenly Suite, respectively:
+
+![Default Suite](https://github.com/user-attachments/assets/fd8eb801-62cb-4929-9dab-ab616da3956d)
+![Enchanted Suite](https://github.com/user-attachments/assets/eb816363-2b40-4981-9f34-98c9988a29fb)
+![Heavenly Suite](https://github.com/user-attachments/assets/afd9f243-3045-4f44-9ca2-1273c993572e)
+
+
+
+
 - In NotITG, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS" show up, do that to get the option to select your noteskin.
 
 https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
