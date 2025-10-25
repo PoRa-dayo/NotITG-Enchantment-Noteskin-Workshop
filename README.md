@@ -137,7 +137,14 @@ The receptor pulse that goes along with the song BPM can also be toggled on and 
 ## Arrow Border
 NotITG is a game focused on visuals, so a lot of times there will be loads of things happening in the background, killing the readability of lots of noteskins. As the Enchantment noteskin definitely isn't known for having contrasting borders, there is now an option to add an additional border around your arrows, allowing for good readability across NotITG modcharts. It apparently isn't possible to do this sort of thing on 2D noteskins though, so this feature can only be applied to the 3D noteskin.
 
-(insert file here)
+None, Black, White, Gray, and Light Gray arrow borders, respectively:
+
+<img width="75" height="75" alt="None" src="https://github.com/user-attachments/assets/4ca96ec1-ea5b-483b-986d-863a36ff9836" />
+<img width="75" height="75" alt="Black" src="https://github.com/user-attachments/assets/575e2b66-c29b-46d5-b832-d45cb6ec203a" />
+<img width="75" height="75" alt="White" src="https://github.com/user-attachments/assets/d8f68521-d832-4ea1-8ba7-725c185e3094" />
+<img width="75" height="75" alt="Gray" src="https://github.com/user-attachments/assets/25b3b2e9-c1be-4f89-9a33-55b0d0c30ac4" />
+<img width="75" height="75" alt="Light Gray" src="https://github.com/user-attachments/assets/7b6a1ad1-55ef-4eff-b208-1944e1d10e66" />
+
 
 ## Inaccuracies
 I have tried to port most arrows and mines into 3D with the highest accuracy possible by recreating the animations based on what HURG told me. But of course, there are still some minor inaccuracies here and there compared to the 2D version:
