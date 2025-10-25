@@ -1,0 +1,107 @@
+DEFAULT SUITE: 
+- Arrow Border: Gray
+- Arrows: Ornate Default Animated
+- Hold + Roll Explosions: Ornate Glow RGB
+- Holds (Active): Full Light Ornate Gold
+- Holds (Inactive): Unlit Gold
+- Mines: Black
+- Receptors: Gray Frame Animated Ornate
+- Rolls (Active): Full Light Ornate Green
+- Rolls (Inactive): Unlit Green
+- Tap Explosions: Ornate Glow ITG
+
+ENCHANTED SUITE:
+- Arrow Border: Gray
+- Arrows: Ornate TD ITG Cel Vibrant
+- Hold + Roll Explosions: Ornate Glow Vapor
+- Holds (Active): Full Light Ornate Note Roll
+- Holds (Inactive): Full Light Plain Note Roll
+- Mines: Blush Invert
+- Receptors: Blush Frame Animated Ornate
+- Rolls (Active): Full Light Ornate Fire
+- Rolls (Inactive): Full Light Plain Fire
+- Tap Explosions: Ornate Spark ITG
+
+HEAVENLY SUITE:
+- Arrow Border: Gray
+- Arrows: Ornate Default
+- Hold + Roll Explosions: Ornate Glow Default
+- Holds (Active): Full Light Ornate Deep
+- Holds (Inactive): Full Light Plain Deep
+- Mines: Ocean Invert
+- Receptors: Blue Frame Animated Plain
+- Rolls (Active): Full Light Ornate Solar
+- Rolls (Inactive): Full Light Plain Solar
+- Tap Explosions: Ornate Glow ITG
+
+HI-TECH SUITE:
+- Arrow Border: Gray
+- Arrows: Plain TD Bright Contrast Vibrant
+- Hold + Roll Explosions: Plain Glow Note Roll
+- Holds (Active): Full Light Plain Ocean
+- Holds (Inactive): Frame Light Ocean
+- Mines: Vapor Vibrant
+- Receptors: Note Roll Frame Animated Plain
+- Rolls (Active): Full Light Plain Vapor
+- Rolls (Inactive): Unlit Vapor
+- Tap Explosions: Plain Spark ITG
+
+MINIMAL SUITE: 
+- Arrow Border: Gray
+- Arrows: Plain TD Dev Cel
+- Hold + Roll Explosions: Plain Minimal White
+- Holds (Active): Full Light Plain White
+- Holds (Inactive): Full Light Plain Gray
+- Mines: Black Mini
+- Receptors: Gray Frame Static Plain
+- Rolls (Active): Full Light Plain DDR Hold
+- Rolls (Inactive): Full Light Plain Green
+- Tap Explosions: Plain Minimal ITG Dev
+
+OMINOUS SUITE:
+- Arrow Border: Light Gray
+- Arrows: Ornate TD Night
+- Hold + Roll Explosions: Ornate Minimal Falspawn
+- Holds (Active): Frame Light DDR Hold
+- Holds (Inactive): Unlit DDR Hold
+- Mines: Fire Mini
+- Receptors: Red Frame Animated Ornate
+- Rolls (Active): Frame Light Note Roll
+- Rolls (Inactive): Unlit Note Roll
+- Tap Explosions: Ornate Glow ITG
+
+PROSPEROUS SUITE:
+- Arrow Border: Gray
+- Arrows: Ornate TD ITG Gold
+- Hold + Roll Explosions: Ornate Glow RGB
+- Holds (Active): Full Light Ornate Gold
+- Holds (Inactive): Full Light Plain Gold
+- Mines: Solar Chroma
+- Receptors: DDR Hold Frame Animated Ornate
+- Rolls (Active): Full Light Ornate Gold
+- Rolls (Inactive): Unlit Gold
+- Tap Explosions: Ornate Spark ITG
+
+SWEET SUITE:
+- Arrow Border: Black
+- Arrows: Plain TD Bright Simple
+- Hold + Roll Explosions: Plain Glow Blush
+- Holds (Active): Full Light Ornate Vapor
+- Holds (Inactive): Unlit Vapor
+- Mines: Halloween Chroma
+- Receptors: Deep Frame Static Plain
+- Rolls (Active): Full Light Ornate Christmas
+- Rolls (Inactive): Unlit Christmas
+- Tap Explosions: Plain Glow ITG
+
+WICKED SUITE:
+- Arrow Border: Light Gray
+- Arrows: Ornate TD Bright Void
+- Hold + Roll Explosions: Ornate Glow Falspawn
+- Holds (Active): Full Light Ornate Falspawn
+- Holds (Inactive): Full Light Plain Falspawn
+- Mines: Orange Invert Mini
+- Receptors: Halloween Frame Static Ornate
+- Rolls (Active): Full Light Ornate D A N K
+- Rolls (Inactive): Unlit D A N K
+- Tap Explosions: Ornate Glow ITG

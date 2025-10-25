@@ -1,0 +1,7 @@
+[Model]
+
+Meshes=enchantmesh.txt
+
+Materials=_Down Tap Note 24th materials.txt
+
+Bones=enchantmesh.txt
