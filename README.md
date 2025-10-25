@@ -38,6 +38,7 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 - Copy the "enchantment-custom" folder.
 - In the NotITG game folder, go to NoteSkins/dance folder, then paste the folder and replace files, then restart the game to apply the variant.
 
+Example video applying the "Plain Bright Simple" arrow variant to "enchantment-custom":
 https://github.com/user-attachments/assets/42eb4746-7819-4e7e-a5a2-6dd0bd19b5d3
 
 
