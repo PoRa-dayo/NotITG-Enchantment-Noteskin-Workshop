@@ -4,7 +4,7 @@ Check the 2D version [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-N
 
 Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with NotITG, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
 
-(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)
+*(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
 # Installation
 - Install the noteskin by copying the 2 folders inside the "Enchantment - NotITG Port" folder, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
