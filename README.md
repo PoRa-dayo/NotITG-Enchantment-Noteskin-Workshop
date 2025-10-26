@@ -1,3 +1,7 @@
+<img width="1200" height="558" alt="logo" src="https://github.com/user-attachments/assets/0c827600-6126-4be5-910c-31eaff379da3" />
+
+Check the trailer video [here](https://www.youtube.com/watch?v=HXFaNyKlyeY).
+
 A NotITG port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled.
 
 Check the 2D version [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-Noteskin-Workshop).
