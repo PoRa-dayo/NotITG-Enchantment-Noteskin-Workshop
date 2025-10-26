@@ -22,10 +22,14 @@ https://github.com/user-attachments/assets/22f99587-733a-41a3-bdb3-05f9262c89e4
 
 
 
-Preview of the Default Suite ("enchantment" folder), Enchantment Suite, and Heavenly Suite, respectively:
+Preview of the Default Suite ("enchantment" folder):
 
 ![Default Suite](https://github.com/user-attachments/assets/fd8eb801-62cb-4929-9dab-ab616da3956d)
+
+Preview of the Enchantment Suite:
 ![Enchanted Suite](https://github.com/user-attachments/assets/eb816363-2b40-4981-9f34-98c9988a29fb)
+
+Preview of the Heavenly Suite:
 ![Heavenly Suite](https://github.com/user-attachments/assets/afd9f243-3045-4f44-9ca2-1273c993572e)
 
 
