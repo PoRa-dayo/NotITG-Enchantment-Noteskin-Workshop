@@ -161,6 +161,7 @@ I have tried to port most arrows and mines into 3D with the highest accuracy pos
 - Lifts and FA-mode-related things are removed, since you know, they don't exist in NotITG.
 
 ## Special Thanks
+- [NowhereDanceClub](https://www.twitch.tv/nowheredanceclub) - I wouldn't have noticed the existence of such a beautiful noteskin without seeing your streams.
 - [EvocaitArt](https://x.com/EvocaitArt) - original Enchantment noteskin creator
 - [HURG](https://github.com/HURG-IIDX) - creator of the Enchantment V2 noteskin workshop and a bunch of other noteskins
 - MechMaelstrom - for guiding me on how to do all these noteskin things in NotITG, as well as for playtesting and feedback.
