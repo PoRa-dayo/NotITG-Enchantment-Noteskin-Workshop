@@ -1,10 +1,10 @@
 <img width="1200" height="558" alt="logo" src="https://github.com/user-attachments/assets/0c827600-6126-4be5-910c-31eaff379da3" />
 
-Check the trailer video [here](https://www.youtube.com/watch?v=HXFaNyKlyeY).
+*Check the trailer video [here](https://www.youtube.com/watch?v=HXFaNyKlyeY).*
+
+*Check the 2D port [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-Noteskin-Workshop).*
 
 A NotITG port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled.
-
-Check the 2D version [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-Noteskin-Workshop).
 
 Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with NotITG, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
 
@@ -22,14 +22,14 @@ https://github.com/user-attachments/assets/22f99587-733a-41a3-bdb3-05f9262c89e4
 
 
 
-Preview of the Default Suite ("enchantment" folder):
+*Preview of the Default Suite ("enchantment" folder):*
 
 ![Default Suite](https://github.com/user-attachments/assets/fd8eb801-62cb-4929-9dab-ab616da3956d)
 
-Preview of the Enchantment Suite:
+*Preview of the Enchantment Suite:*
 ![Enchanted Suite](https://github.com/user-attachments/assets/eb816363-2b40-4981-9f34-98c9988a29fb)
 
-Preview of the Heavenly Suite:
+*Preview of the Heavenly Suite:*
 ![Heavenly Suite](https://github.com/user-attachments/assets/afd9f243-3045-4f44-9ca2-1273c993572e)
 
 
