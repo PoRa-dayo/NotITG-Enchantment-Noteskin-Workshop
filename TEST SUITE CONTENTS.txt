@@ -1,10 +1,10 @@
 DEFAULT SUITE: 
 - Arrow Border: Gray
 - Arrows: Ornate Default Animated
-- Hold + Roll Explosions: Ornate Glow RGB
+- Hold + Roll Explosions: Ornate Glow Default
 - Holds (Active): Full Light Ornate Gold
 - Holds (Inactive): Unlit Gold
-- Mines: Black
+- Mines: Default
 - Receptors: Gray Frame Animated Ornate
 - Rolls (Active): Full Light Ornate Green
 - Rolls (Inactive): Unlit Green
