@@ -89,7 +89,7 @@ SWEET SUITE:
 - Holds (Active): Full Light Ornate Vapor
 - Holds (Inactive): Unlit Vapor
 - Mines: Halloween Chroma
-- Receptors: Deep Frame Static Plain
+- Receptors: Deep Classic Static Plain
 - Rolls (Active): Full Light Ornate Christmas
 - Rolls (Inactive): Unlit Christmas
 - Tap Explosions: Plain Glow ITG
@@ -101,7 +101,7 @@ WICKED SUITE:
 - Holds (Active): Full Light Ornate Falspawn
 - Holds (Inactive): Full Light Plain Falspawn
 - Mines: Orange Invert Mini
-- Receptors: Halloween Frame Static Ornate
+- Receptors: Halloween Classic Static Ornate
 - Rolls (Active): Full Light Ornate D A N K
 - Rolls (Inactive): Unlit D A N K
 - Tap Explosions: Ornate Glow ITG
