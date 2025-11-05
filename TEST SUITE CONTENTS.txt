@@ -5,7 +5,7 @@ DEFAULT SUITE:
 - Holds (Active): Full Light Ornate Gold
 - Holds (Inactive): Unlit Gold
 - Mines: Default
-- Receptors: Gray Frame Animated Ornate
+- Receptors: Gray Classic Static Ornate
 - Rolls (Active): Full Light Ornate Green
 - Rolls (Inactive): Unlit Green
 - Tap Explosions: Ornate Glow ITG
