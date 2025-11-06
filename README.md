@@ -11,55 +11,64 @@ Welcome to the NotITG/Outfox noteskin workshop for Enchantment! This is a fully 
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
 # Installation (NotITG)
-- Install the noteskin by copying the "enchantment-custom" and "enchantment-custom-3d" folders inside the "Enchantment - NotITG Port" folder, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
+- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"NotITG" folder, and inside your NotITG game folder, paste them in "NoteSkins"/"dance". These contain the base default variants of the Enchantment noteskin.
 
-https://github.com/user-attachments/assets/3e57e4d6-472c-49f1-a886-a188c5de01b9
+https://github.com/user-attachments/assets/00addb70-4549-42dc-963f-259c7419d81d
 
 
-- There are also Test Suites in the "Enchantment - TEST SUITES" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in Noteskins/dance to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
+- There are also Test Suites in the "Enchantment - TEST SUITES"/"NotITG" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Noteskins"/"dance" to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
-https://github.com/user-attachments/assets/22f99587-733a-41a3-bdb3-05f9262c89e4
-
+https://github.com/user-attachments/assets/03ca3623-00e9-4a1f-98e6-d7475b62a741
 
 
 *Preview of the Default Suite ("enchantment" folder):*
 
-![Default Suite](https://github.com/user-attachments/assets/fd8eb801-62cb-4929-9dab-ab616da3956d)
-
-*Preview of the Enchantment Suite:*
-![Enchanted Suite](https://github.com/user-attachments/assets/eb816363-2b40-4981-9f34-98c9988a29fb)
-
-*Preview of the Heavenly Suite:*
-![Heavenly Suite](https://github.com/user-attachments/assets/afd9f243-3045-4f44-9ca2-1273c993572e)
+![Default Suite](https://github.com/user-attachments/assets/59741ae2-83d4-4051-a393-ec4c912bfecd)
 
 
 
-
-- In NotITG, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS" show up, do that to get the option to select your noteskin.
+- In NotITG, when you select a chart, right before the chart is played, when "PRESS [START] TO CHOOSE MODS" shows up, do that to get the option to select your noteskin.
 
 https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 
 
 
+*You can change your default settings for NotITG (including default noteskin) by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
+
+# Installation (Outfox)
+- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance". These contain the base default variants of the Enchantment noteskin.
+
+https://github.com/user-attachments/assets/3743d718-f175-4010-94d9-1499cbf34e23
+
+
+- There are also Test Suites in the "Enchantment - TEST SUITES"/"Outfox" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Appearance"/"Noteskins"/"dance" to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
+
+https://github.com/user-attachments/assets/b80cb5e6-490c-4d75-9c37-e7aaccc753b1
+
+
+- In Outfox, when you select a chart, right before the chart is played, when "Press [START] again for options" shows up, do that to get the option to select your noteskin.
+
+https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
+
 
 *You can change your default settings for NotITG (including default noteskin) by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
 
 # Customization (both NotITG and Outfox)
-*You will only be changing the "enchantment-custom" folder.*
+*You will only be changing the "enchantment-custom-3d" folder.*
 
 - You can check the Previews folder for previews in an easily viewable and browsable format. Use it to figure out what noteskin variant you want.
 - Head on to the Customization folder and build your own customized noteskin.
 - Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom-3d" folder.
 - Copy the "enchantment-custom-3d" folder.
-- In the NotITG game folder, go to NoteSkins/dance folder (or in the Outfox game folder, go to Appearance/NoteSkins/dance folder), then paste the folder and replace files, then restart the game to apply the variant.
+- In the NotITG game folder, go to "NoteSkins"/"dance" folder (or in the Outfox game folder, go to "Appearance"/"NoteSkins"/"dance" folder), then paste the folder and replace files, then restart the game to apply the variant.
 
-Example video applying the "Plain Bright Simple" arrow variant to "enchantment-custom":
+Example video applying the "Plain Bright Simple" arrow variant to "enchantment-custom-3d":
 
-https://github.com/user-attachments/assets/42eb4746-7819-4e7e-a5a2-6dd0bd19b5d3
+https://github.com/user-attachments/assets/2ba98f4b-a628-43d6-a69b-cba85d5f4ffe
 
 
 
-- If you like what you have built in the "enchantment-custom" folder, feel free to duplicate the folder and rename it to whatever you want. That way you can save your custom build, and use the "enchantment-custom" folder to customize a new one!
+- If you like what you have built in the "enchantment-custom-3d" folder, feel free to duplicate the folder and rename it to whatever you want. That way you can save your custom build, and use the "enchantment-custom-3d" folder to customize a new one!
 
 
 # Overview
