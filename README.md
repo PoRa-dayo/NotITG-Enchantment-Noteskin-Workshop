@@ -4,13 +4,13 @@
 
 *Check the 2D port [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-Noteskin-Workshop).*
 
-A NotITG port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled.
+A NotITG/Outfox port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled.
 
-Welcome to the NotITG noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with NotITG, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
+Welcome to the NotITG/Outfox noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with modcharts, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
 
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
-# Installation
+# Installation (NotITG)
 - Install the noteskin by copying the 2 folders inside the "Enchantment - NotITG Port" folder, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
 
 https://github.com/user-attachments/assets/3e57e4d6-472c-49f1-a886-a188c5de01b9
@@ -44,14 +44,14 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 
 *You can change your default settings for NotITG (including default noteskin) by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
 
-# Customization
+# Customization (both NotITG and Outfox)
 *You will only be changing the "enchantment-custom" folder.*
 
 - You can check the Previews folder for previews in an easily viewable and browsable format. Use it to figure out what noteskin variant you want.
 - Head on to the Customization folder and build your own customized noteskin.
-- Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom" folder.
-- Copy the "enchantment-custom" folder.
-- In the NotITG game folder, go to NoteSkins/dance folder, then paste the folder and replace files, then restart the game to apply the variant.
+- Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom-3d" folder.
+- Copy the "enchantment-custom-3d" folder.
+- In the NotITG game folder, go to NoteSkins/dance folder (or in the Outfox game folder, go to Appearance/NoteSkins/dance folder), then paste the folder and replace files, then restart the game to apply the variant.
 
 Example video applying the "Plain Bright Simple" arrow variant to "enchantment-custom":
 
