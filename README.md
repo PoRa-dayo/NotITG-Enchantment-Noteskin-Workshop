@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/b80cb5e6-490c-4d75-9c37-e7aaccc753b1
 https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
 
 
-*You can change your default settings for NotITG (including default noteskin) by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
+*You can change your default settings for Outfox (including default noteskin) in-game by going to the main menu, select Options -> User Experience -> Appearance Options.*
 
 # Customization (both NotITG and Outfox)
 *You will only be changing the "enchantment-custom-3d" folder.*
