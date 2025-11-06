@@ -100,8 +100,11 @@ Below is the "Ornate" arrow shape variations of the ITG color scheme, in the ord
 And here is the "Plain" variations with the floral patterns removed for a more simple look:
 ![476326681-e695fd3c-ee79-49b0-aa59-a7b87ca6d187](https://github.com/user-attachments/assets/998e682e-bcc4-4fa6-996c-4893e9f9b15a)
 
+There are also a few options for lifts for the Outfox port.
 
 ## Explosions
+*The Bright W1 tap explosion is not used in NotITG and is only used in advanced timing windows in Outfox.*
+
 Tap explosions can be customized to different match different judgement color sets. By default it comes with the Ornate "ITG" Glow set, but there are options for color sets like Rainbowmatic and Waterfall and a few others. There is also an "all white" option if you prefer your tap explosions to be color neutral. Tap explosions come in 3 variants per color set: Spark (X shaped like a DDR tap explosion), Glow (similar to the default ITG Cel/Metal noteskin tap explosions) and Minimal (similar to glow but with a smaller area). There are Ornate and Plain versions of every set. You can also disable tap explosions entirely with the "no explosions" customization option. Here is a preview of some of the tap explosion options:
 
 ![476327256-1ffe8b3f-b3ac-473f-b9d6-798d2aa744e0](https://github.com/user-attachments/assets/91d6a7c5-4785-43d9-ad0f-8e9a97a57dac)
@@ -175,7 +178,6 @@ I have tried to port most arrows and mines into 3D with the highest accuracy pos
 - Most of the gradient sheets are recreated by myself, only a few of them are actually obtained from HURG because it'd take a really long time for HURG to export all those gradients, so the colors might be a bit inaccurate.
 - Because some shines in the original animations used Overlay blend mode in Photoshop, which cannot be recreated with simple color overlay, all the shine effects present in some variants are inaccurate. Regardless, I've tried my best to find the right colors to make the shine visuals as closest to the original as possible.
 - Hold and roll tails are shortened in this port as the game doesn't really like full 64x64 tails.
-- Lifts and FA-mode-related things are removed, since you know, they don't exist in NotITG.
 
 ## Special Thanks
 - [NowhereDanceClub](https://www.twitch.tv/nowheredanceclub) - I wouldn't have noticed the existence of such a beautiful noteskin without seeing your streams.
