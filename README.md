@@ -2,16 +2,16 @@
 
 *Check the trailer video [here](https://www.youtube.com/watch?v=HXFaNyKlyeY).*
 
-*Check the 2D port [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-Noteskin-Workshop).*
+*Check the 2D port for NotITG [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-Noteskin-Workshop).*
 
-A NotITG/Outfox port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled.
+A NotITG/Outfox port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled. (It was originally only meant to be for NotITG, but then I found out that you can structure the noteskin assets in Outfox similarly, so it's for both games now)
 
 Welcome to the NotITG/Outfox noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with modcharts, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
 
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
 # Installation (NotITG)
-- Install the noteskin by copying the 2 folders inside the "Enchantment - NotITG Port" folder, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
+- Install the noteskin by copying the "enchantment-custom" and "enchantment-custom-3d" folders inside the "Enchantment - NotITG Port" folder, and inside your NotITG game folder, paste them in NoteSkins/dance. These contain the base default variants of the Enchantment noteskin.
 
 https://github.com/user-attachments/assets/3e57e4d6-472c-49f1-a886-a188c5de01b9
 
