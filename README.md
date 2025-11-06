@@ -110,7 +110,7 @@ Tap explosions can be customized to different match different judgement color se
 ![476327256-1ffe8b3f-b3ac-473f-b9d6-798d2aa744e0](https://github.com/user-attachments/assets/91d6a7c5-4785-43d9-ad0f-8e9a97a57dac)
 
 
-Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal. There are Plain and Ornate versions of every option. By default the skin uses the Ornate "RGB" glow color option. You can also disable hold explosions entirely with the "no explosions" customization option. Here is a preview image of some of the hold explosion options:
+Hold explosions can be color customized to many different color options and also come in the same 3 variations as tap explosions (Spark, Glow, and Minimal). There are Plain and Ornate versions of every option. You can also disable hold explosions entirely with the "no explosions" customization option. Here is a preview image of some of the hold explosion options:
 
 ![476327350-dba6822a-5000-40ac-94d4-c6cf0991caf8](https://github.com/user-attachments/assets/4f56cba6-8fac-4918-ba00-d60b411d5e78)
 
