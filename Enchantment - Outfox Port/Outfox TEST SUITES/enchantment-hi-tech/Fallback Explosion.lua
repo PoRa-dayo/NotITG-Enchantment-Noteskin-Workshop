@@ -51,6 +51,10 @@ local t = Def.ActorFrame {
 		NOTESKIN:LoadActor( Var "Button", "Tap Explosion " .. BrightW1 ) .. {
 			InitCommand=cmd(diffusealpha,0);
 			W1Command=cmd(diffusealpha,0);
+            ProW1Command=NOTESKIN:GetMetricA("GhostArrowBright", "W1Command");
+            ProW2Command=NOTESKIN:GetMetricA("GhostArrowBright", "W1Command");
+            ProW3Command=NOTESKIN:GetMetricA("GhostArrowBright", "W1Command");
+            ProW4Command=NOTESKIN:GetMetricA("GhostArrowBright", "W1Command");
             ProW5Command=NOTESKIN:GetMetricA("GhostArrowBright", "W1Command");
 			JudgmentCommand=cmd(finishtweening);
 			BrightCommand=NOTESKIN:GetMetricA("GhostArrowBright", "W1Command");
