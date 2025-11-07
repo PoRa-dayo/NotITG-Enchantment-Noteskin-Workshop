@@ -12,13 +12,10 @@ local Colours = {
 	["192nd"] = "64th"
 }
 
-return Def.ActorFrame{ 
-    Def.Model {
-        Meshes=NOTESKIN:GetPath('','enchantmesh'),
-        Materials=NOTESKIN:GetPath('_Down Tap Note '..Colours[Colour],'materials'),
-        Bones=NOTESKIN:GetPath('','enchantmesh')
-    },
-    
+return Def.Model {
+    Meshes=NOTESKIN:GetPath('','enchantmesh'),
+    Materials=NOTESKIN:GetPath('_Down Tap Note '..Colours[Colour],'materials'),
+    Bones=NOTESKIN:GetPath('','enchantmesh')
 }
 
 
