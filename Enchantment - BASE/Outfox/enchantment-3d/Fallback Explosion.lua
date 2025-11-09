@@ -44,7 +44,7 @@ local t = Def.ActorFrame {
 			W1Command=NOTESKIN:GetMetricA("GhostArrowDim", "W1Command");
 			HeldCommand=NOTESKIN:GetMetricA("GhostArrowDim", "HeldCommand");
 			JudgmentCommand=cmd(finishtweening);
-			BrightCommand=cmd(visible,false);
+			BrightCommand=cmd(visible,true);
 			DimCommand=cmd(visible,true);
 		};
 		--W1 aka Marvelous Bright Explosion Commands
@@ -57,7 +57,7 @@ local t = Def.ActorFrame {
             ProW4Command=NOTESKIN:GetMetricA("GhostArrowBright", "W1Command");
             ProW5Command=NOTESKIN:GetMetricA("GhostArrowBright", "W1Command");
 			JudgmentCommand=cmd(finishtweening);
-			BrightCommand=NOTESKIN:GetMetricA("GhostArrowBright", "W1Command");
+			BrightCommand=cmd(visible,true);
 			DimCommand=cmd(visible,true);
 		};
 	};
