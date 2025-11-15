@@ -4,7 +4,7 @@ DEFAULT SUITE:
 - Hold + Roll Explosions: Ornate Glow Default
 - Holds (Active): Full Light Ornate Gold
 - Holds (Inactive): Unlit Gold
-- Mines: Black
+- Mines: Default
 - Receptor Pulse: On
 - Receptors: Gray Classic Static Ornate
 - Rolls (Active): Full Light Ornate Green
