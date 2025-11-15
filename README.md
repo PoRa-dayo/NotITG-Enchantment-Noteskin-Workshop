@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/03ca3623-00e9-4a1f-98e6-d7475b62a741
 
 *Preview of the Default Suite ("enchantment-3d" folder):*
 
-![Default Suite](https://github.com/user-attachments/assets/59741ae2-83d4-4051-a393-ec4c912bfecd)
+![Default Suite](https://github.com/user-attachments/assets/603b4039-58dd-4c2a-9b19-cddfc0b7864b)
 
 
 
