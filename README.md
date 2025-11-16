@@ -11,19 +11,20 @@ Welcome to the NotITG/Outfox noteskin workshop for Enchantment! This is a fully 
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
 # Installation (NotITG)
-- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"NotITG" folder, and inside your NotITG game folder, paste them in "NoteSkins"/"dance". These contain the base default variants of the Enchantment noteskin.
+- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"NotITG" folder, and inside your NotITG game folder, paste them in "NoteSkins"/"dance".
 
 https://github.com/user-attachments/assets/00addb70-4549-42dc-963f-259c7419d81d
+
+
+These contain the base default variant of the Enchantment noteskin, which look like this in-game:
+
+![Default Suite](https://github.com/user-attachments/assets/603b4039-58dd-4c2a-9b19-cddfc0b7864b)
+
 
 
 - There are also Test Suites in the "Enchantment - TEST SUITES"/"NotITG" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Noteskins"/"dance" to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
 https://github.com/user-attachments/assets/03ca3623-00e9-4a1f-98e6-d7475b62a741
-
-
-*Preview of the Default Suite ("enchantment-3d" folder):*
-
-![Default Suite](https://github.com/user-attachments/assets/603b4039-58dd-4c2a-9b19-cddfc0b7864b)
 
 
 
@@ -36,7 +37,7 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 *You can change your default settings for NotITG (including default noteskin) by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
 
 # Installation (Outfox)
-- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance". These contain the base default variants of the Enchantment noteskin.
+- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance". These contain the base default variant of the Enchantment noteskin.
 
 https://github.com/user-attachments/assets/3743d718-f175-4010-94d9-1499cbf34e23
 
