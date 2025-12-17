@@ -23,7 +23,6 @@ if ProductFamily() == "OutFox" then
 end
 if ProductFamily() == "Etterna" then
 --otherwise if the game is Etterna then just disable Bright W1
-    SCREENMAN:SystemMessage("hello world!")
     BrightW1 = "Dim W1"
 end
 
