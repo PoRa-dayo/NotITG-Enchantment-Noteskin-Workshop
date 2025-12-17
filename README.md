@@ -4,9 +4,9 @@
 
 *Check the 2D port for NotITG [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-Noteskin-Workshop).*
 
-A NotITG/Outfox port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled. (It was originally only meant to be for NotITG, but then I found out that you can structure the noteskin assets in Outfox similarly, so it's for both games now)
+A NotITG/Outfox/Etterna port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled. (It was originally only meant to be for NotITG, but then I found out that you can structure the noteskin assets in Outfox similarly, so it's for both games now)
 
-Welcome to the NotITG/Outfox noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with modcharts, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
+Welcome to the NotITG/Outfox/Etterna noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with modcharts, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
 
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
@@ -36,13 +36,13 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 
 *You can change your default settings for NotITG (including default noteskin) by going to the NotITG game folder, and open and edit Data/GamePrefs.ini.*
 
-# Installation (Outfox)
-- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance". These contain the base default variant of the Enchantment noteskin.
+# Installation (Outfox/Etterna)
+- Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox, Etterna" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance" (or "NoteSkins"/"dance" for Etterna). These contain the base default variant of the Enchantment noteskin.
 
 https://github.com/user-attachments/assets/3743d718-f175-4010-94d9-1499cbf34e23
 
 
-- There are also Test Suites in the "Enchantment - TEST SUITES"/"Outfox" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Appearance"/"Noteskins"/"dance" to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
+- There are also Test Suites in the "Enchantment - TEST SUITES"/"Outfox, Etterna" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Appearance"/"Noteskins"/"dance" to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
 https://github.com/user-attachments/assets/b80cb5e6-490c-4d75-9c37-e7aaccc753b1
 
@@ -54,14 +54,14 @@ https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
 
 *You can change your default settings for Outfox (including default noteskin) in-game by going to the main menu, select Options -> User Experience -> Appearance Options.*
 
-# Customization (both NotITG and Outfox)
+# Customization (NotITG, Outfox and Etterna)
 *You will only be changing the "enchantment-custom-3d" folder.*
 
 - You can check the Previews folder for previews in an easily viewable and browsable format. Use it to figure out what noteskin variant you want.
 - Head on to the Customization folder and build your own customized noteskin.
 - Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom-3d" folder.
 - Copy the "enchantment-custom-3d" folder.
-- In the NotITG game folder, go to "NoteSkins"/"dance" folder (or in the Outfox game folder, go to "Appearance"/"NoteSkins"/"dance" folder), then paste the folder and replace files, then restart the game to apply the variant.
+- In the NotITG or Etteerna game folder, go to "NoteSkins"/"dance" folder (or in the Outfox game folder, go to "Appearance"/"NoteSkins"/"dance" folder), then paste the folder and replace files, then restart the game to apply the variant.
 
 Example video applying the "Plain Bright Simple" arrow variant to "enchantment-custom-3d":
 
