@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 https://github.com/user-attachments/assets/3743d718-f175-4010-94d9-1499cbf34e23
 
 
-- There are also Test Suites in the "Enchantment - TEST SUITES"/"Outfox, Etterna" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Appearance"/"Noteskins"/"dance" to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
+- There are also Test Suites in the "Enchantment - TEST SUITES"/"Outfox, Etterna" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Appearance"/"Noteskins"/"dance" (or "Noteskins"/"dance" in Etterna) to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
 https://github.com/user-attachments/assets/b80cb5e6-490c-4d75-9c37-e7aaccc753b1
 
