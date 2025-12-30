@@ -2,8 +2,9 @@ import re
 
 # Patterns
 header_pattern = re.compile(r'^"(.*?)"\s+\d+\s+\d+$')
-triple_pattern = re.compile(r'^-?\d*\.?\d+\s+-?\d*\.?\d+\s+-?\d*\.?\d+$')
-seven_pattern = re.compile(r'^(-?\d*\.?\d+\s+){6}-?\d*\.?\d+$')
+triple_pattern = re.compile(r'^-?\d*\.?\d+\s+-?\d*\.?\d+\s+-?\d*\.?\d+$') # 3 floats/integers
+seven_pattern = re.compile(r'^(-?\d*\.?\d+\s+){6}-?\d*\.?\d+$') # 7 floats
+triangle_pattern = re.compile(r'^(\d+\s+){7}\d+$')  # 8 integers
 materials_pattern = re.compile(r'^Materials:\s*\d+$')
 
 def invert_number_str(num_str):
@@ -67,8 +68,10 @@ while i < len(lines):
 
         # --- Duplicate + modify block ---
         modified_block = []
-        for b_line in block:
-            b_line = b_line.rstrip('\n')
+
+        ind = 0
+        while ind < len(block):
+            b_line = block[ind].rstrip('\n')
 
             # Modify header line
             m = header_pattern.match(b_line)
@@ -76,37 +79,66 @@ while i < len(lines):
                 name = m.group(1)
                 new_name = name + "Back"
                 if len(new_name) > 30:
-                    new_name = new_name[-30:]  # keep only the last 30 characters
+                    new_name = new_name[-30:]
                 modified_line = f'"{new_name}"' + b_line[b_line.find('"', 1) + 1:]
                 modified_block.append(modified_line)
+                ind += 1
                 continue
 
-            # Modify triple float lines (invert 1st & 3rd only)
+            # Triple float lines = NORMALS
+            # Alt+N -> Flip
             if triple_pattern.match(b_line) and '.' in b_line:
+                print(b_line, "Normals")
                 nums = b_line.split()
-                for j in [0, 2]:
+
+                for j in (0, 1, 2):  # nx, ny, nz
                     nums[j] = invert_number_str(nums[j])
+
                 modified_block.append(' '.join(nums))
+                print(' '.join(nums))
+                ind += 1
                 continue
 
-            # Modify 7-number float lines (invert 2nd & 4th only)
+            # 7-number float lines = VERTICES
+            # Scale -1 on MilkShape Z
             if seven_pattern.match(b_line) and '.' in b_line:
+                print(b_line, "Vertices")
                 nums = b_line.split()
-                for j in [1, 3]:
-                    nums[j] = invert_number_str(nums[j])
+
+                nums[3] = invert_number_str(nums[3])  # Z = -Z
+
                 modified_block.append(' '.join(nums))
+                print(' '.join(nums))
+                ind += 1
                 continue
+
+            # Triangle indices (flip face winding)
+            if triangle_pattern.match(b_line):
+                print(b_line, "Triangles")
+                nums = b_line.split()
+
+                # swap v1 and v2 → reverse winding
+                nums[1], nums[2] = nums[2], nums[1]
+
+                modified_block.append(' '.join(nums))
+                print(' '.join(nums))
+                ind += 1
+                continue
+
 
             # Otherwise leave as is
             modified_block.append(b_line)
+            ind += 1
 
-        # --- Place duplicate, ensure no extra blank line before Materials ---
+
+        # Place duplicate, ensure no extra blank line before Materials
         if modified_block and modified_block[-1] == '':
             modified_block.pop()
 
         output.extend([line + '\n' for line in modified_block])
         if add_blank_before_materials:
             output.append('\n')
+
 
 
         # Don’t skip Materials line; process it next
@@ -119,3 +151,4 @@ with open(path, 'w', encoding='utf-8') as f:
     f.writelines(output)
 
 print("Replaced the ASCII .txt file with the newly generated 3D+ version.")
+input("\nPress Enter to exit.")
