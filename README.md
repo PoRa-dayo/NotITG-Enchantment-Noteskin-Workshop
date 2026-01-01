@@ -4,6 +4,8 @@
 
 *Check the 2D port for NotITG [here](https://github.com/PoRa-dayo/NotITG-Enchantment-2D-Noteskin-Workshop).*
 
+*Check my other noteskins [here](https://github.com/PoRa-dayo/PoRa-Noteskins).*
+
 A NotITG/Outfox/Etterna port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled. (It was originally only meant to be for NotITG, but then I found out that you can structure the noteskin assets in Outfox similarly, so it's for both games now)
 
 Welcome to the NotITG/Outfox/Etterna noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with modcharts, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
