@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
 - Head on to the Customization folder and build your own customized noteskin.
 - Keep opening the noteskin variant folders that you prefer until you eventually see the "enchantment-custom-3d" folder.
 - Copy the "enchantment-custom-3d" folder.
-- In the NotITG or Etteerna game folder, go to "NoteSkins"/"dance" folder (or in the Outfox game folder, go to "Appearance"/"NoteSkins"/"dance" folder), then paste the folder and replace files, then restart the game to apply the variant.
+- In the NotITG or Etterna game folder, go to "NoteSkins"/"dance" folder (or in the Outfox game folder, go to "Appearance"/"NoteSkins"/"dance" folder), then paste the folder and replace files, then restart the game to apply the variant.
 
 Example video applying the "Plain Bright Simple" arrow variant to "enchantment-custom-3d":
 
