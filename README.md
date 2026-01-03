@@ -104,6 +104,7 @@ And here is the "Plain" variations with the floral patterns removed for a more s
 ![476326681-e695fd3c-ee79-49b0-aa59-a7b87ca6d187](https://github.com/user-attachments/assets/998e682e-bcc4-4fa6-996c-4893e9f9b15a)
 
 There are also a few options for lifts for the Outfox port:
+
 ![Spectrum](https://github.com/user-attachments/assets/61da54fe-6e66-4c3e-93fc-7ff3a3664001)
 ![Spectrum](https://github.com/user-attachments/assets/e23380fa-3d60-4801-944c-7752a896fe80)
 
