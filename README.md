@@ -56,14 +56,16 @@ https://github.com/user-attachments/assets/e6c9cb00-0f90-4e46-a68a-85fa3d004dd3
 - Install the noteskin by copying the "enchantment-3d" and "enchantment-custom-3d" folders inside the "Enchantment - BASE"/"Outfox, Etterna, ITGmania" folder, and inside your Project Outfox game folder, paste them in "Appearance"/"NoteSkins"/"dance" (or "NoteSkins"/"dance" for Etterna, ITGmania). These contain the base default variant of the Enchantment noteskin.
 
 
-https://github.com/user-attachments/assets/25c0a4e0-5d64-46df-963f-c4a4dfd33919
+https://github.com/user-attachments/assets/59187076-2a37-4ecc-a3ff-661ba7f81cfe
 
 
 
 - There are also Test Suites in the "Enchantment - TEST SUITES"/"Outfox, Etterna, ITGmania" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "Appearance"/"Noteskins"/"dance" (or "Noteskins"/"dance" in Etterna, ITGmania) to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
 
-https://github.com/user-attachments/assets/f703f859-0ab7-4d31-9e64-f8caf08ef97c
+
+https://github.com/user-attachments/assets/a60e14cc-cedd-4757-bf62-d6ddd8071a8c
+
 
 
 
@@ -73,6 +75,8 @@ https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
 
 
 *You can change your default settings for Outfox (including default noteskin) in-game by going to the main menu, select Options -> User Experience -> Appearance Options.*
+
+*You can change your default settings for ITGmania (including default noteskin) in-game by going to the main menu, select Options -> System Options.*
 
 # Customization (NotITG, Outfox, Etterna and ITGmania)
 *You will only be changing the "enchantment-custom-3d" folder.*
@@ -86,7 +90,8 @@ https://github.com/user-attachments/assets/e5126959-c88d-47a9-a009-21a940fc0849
 Example video applying the "Plain Default Animated" arrow variant to "enchantment-custom-3d":
 
 
-https://github.com/user-attachments/assets/b41ab4fc-cf0e-46e8-8fd1-0b3b1cccb15b
+https://github.com/user-attachments/assets/57612cf6-6a56-4b0b-9457-eadc6966e159
+
 
 
 
