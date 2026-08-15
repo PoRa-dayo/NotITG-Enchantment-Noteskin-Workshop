@@ -10,9 +10,11 @@
 
 **THIS NOTESKIN WILL NOT WORK ON THE ORIGINAL STEPMANIA 5.0/5.1 OR ITGMANIA VERSIONS BELOW 1.2.0.**
 
-A NotITG/Outfox/Etterna/ITGmania port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled. (It was originally only meant to be for NotITG, but then I found out that you can structure the noteskin assets in some SM5 forks similarly, so it's in those SM5 forks as well)
+A NotITG/Outfox/Etterna/ITGmania port of [HURG's Noteskin-Workshop-Enchantment-V2 project for ITGMania](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2/tree/main), now fully 3D modeled.
 
-Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for Enchantment! This is a fully customizable "build your own" noteskin suite based on the "enchantment" noteskin included with ITGmania. Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with modcharts, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
+"Noteskin Workshops" are fully customizable "build your own" noteskin suites. With some simple copy-pasting, a workshop allows you to apply any arrow/hold/roll/mine/etc. variant that you desire to its base noteskin.
+
+Welcome to the NotITG/Outfox/Etterna/ITGmania noteskin workshop for "Enchantment", a noteskin included with ITGmania! Just about every aspect of the noteskin can be customized. As this is meant to be fully compatible with modcharts, all arrows and mines now have 3D models! All customization options have preview images that can be browsed in the "Previews" folder.
 
 *(Scroll down to the Overview section for an overview of the features in this workshop, as well as some previews)*
 
