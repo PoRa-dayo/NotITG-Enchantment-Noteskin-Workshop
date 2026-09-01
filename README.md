@@ -37,7 +37,7 @@ These contain the base default variant of the Enchantment noteskin, which look l
 
 
 
-- There are also Test Suites in the "Enchantment - TEST SUITES"/"NotITG" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "NoteSkins"/"dance" (or "Appearance"/"NoteSkins"/"dance" in Outfox) to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
+- There are also Test Suites in the "Enchantment - TEST SUITES" folder. Test Suites are variants of the noteskin, that have arrows, holds, rolls, receptors, etc. fully customized beforehand. You can install the Test Suite you want in "NoteSkins"/"dance" (or "Appearance"/"NoteSkins"/"dance" in Outfox) to quickly have a bunch of fully customized variants that you can try out without having to spend time browsing and tinkering. You can check the preview of each Test Suite inside the "Previews" folder.
 
 
 https://github.com/user-attachments/assets/9e60ac64-c29a-4177-8db6-a3935efa75a1
